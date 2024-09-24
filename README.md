@@ -28,7 +28,7 @@ Built using **React.js**, this application showcases key features such as asynch
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-repo/random-gif-generator.git
+   git clone https://github.com/AdeebZaidi/random-gif-generator.git
    ```
 
 2. **Navigate to the project folder:**
